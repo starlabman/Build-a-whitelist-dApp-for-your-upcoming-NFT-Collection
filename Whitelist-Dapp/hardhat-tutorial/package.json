@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "hardhat": "^2.12.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
