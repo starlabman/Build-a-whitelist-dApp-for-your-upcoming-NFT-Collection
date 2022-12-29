@@ -1,4 +1,4 @@
-require("@nomicfoundation/hardhat-toolbox");
+require("@nomiclabs/hardhat-waffle");
 require("dotenv").config({ path: ".env" });
 
 const QUICKNODE_HTTP_URL = process.env.QUICKNODE_HTTP_URL;
